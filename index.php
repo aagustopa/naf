@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>NAF</title>
-    <link rel="stylesheet" type="text/css" href="./assets/css/styles.css?v=1.1" />
+    <link rel="stylesheet" type="text/css" href="./assets/css/styles.css" />
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
     <script src="./js/index.js" defer></script>
 </head>
@@ -55,6 +55,45 @@
                 repellat hic ipsa rerum magnam temporibus, culpa veniam.</p>
         </div>
     </div>
+    
+    <div class="slider owl-carousel">
+            <div class="card">
+                <div class="img"><img src="./assets/img/banner.jpg" alt=""></div>
+                <div class="content">
+                    <div class="title">Agustopa</div>
+                    <div class="sub-title">Web developer</div>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi ex accusamus porro unde sit blanditiis
+                    dolore ducimus deserunt incidunt sapiente.</p>
+                    <div class="btn">
+                        <button>Read more</button>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="img"><img src="./assets/img/banner.jpg" alt=""></div>
+                <div class="content">
+                    <div class="title">Agustopa</div>
+                    <div class="sub-title">Web developer</div>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi ex accusamus porro unde sit blanditiis
+                        dolore ducimus deserunt incidunt sapiente.</p>
+                    <div class="btn">
+                        <button>Read more</button>
+                    </div>
+                </div>
+            </div>
+            <div class="card">
+                <div class="img"><img src="./assets/img/banner.jpg" alt=""></div>
+                <div class="content">
+                    <div class="title">Agustopa</div>
+                    <div class="sub-title">Web developer</div>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi ex accusamus porro unde sit blanditiis
+                        dolore ducimus deserunt incidunt sapiente.</p>
+                    <div class="btn">
+                        <button>Read more</button>
+                    </div>
+                </div>
+            </div>
+        </div>
 </body>
 
 </html>
