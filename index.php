@@ -19,10 +19,10 @@
                     <i class="fas fa-times"></i>
                 </div>
                 <li><a href="#">Home</a></li>
-                <li><a href="#">Viernes</a></li>
-                <li><a href="#">Services</a></li>
-                <li><a href="#">Features</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="#">Domingo</a></li>
+                <li><a href="#">Broadcasting</a></li>
+                <li><a href="#">Kahoot</a></li>
+                <li><a href="#">About</a></li>
             </ul>
             <div class="icon menu-btn">
                 <i class="fas fa-bars"></i>
@@ -33,7 +33,7 @@
     <div class="banner"></div>
     <div class="about">
         <div class="content">
-            <div class="title">Responsive Sticky Navigation Bar on Scroll using HTML CSS & Javascript</div>
+            <div class="title">Página web oficial de la noche de adoración en Familia de las familias Agustopa Balderrama, Rubio y Boleko</div>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa quis, nisi, laudantium aliquid nemo
                 molestiae minus praesentium perferendis totam, laborum eaque sapiente eius eum corporis unde dicta
                 accusamus sunt modi illo eligendi? Quam voluptatem totam doloribus, tempora temporibus esse delectus ea
@@ -60,7 +60,7 @@
             <div class="card">
                 <div class="img"><img src="./assets/img/banner.jpg" alt=""></div>
                 <div class="content">
-                    <div class="title">Agustopa</div>
+                    <div class="title">Agenda Domingo</div>
                     <div class="sub-title">Web developer</div>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi ex accusamus porro unde sit blanditiis
                     dolore ducimus deserunt incidunt sapiente.</p>
@@ -72,7 +72,7 @@
             <div class="card">
                 <div class="img"><img src="./assets/img/banner.jpg" alt=""></div>
                 <div class="content">
-                    <div class="title">Agustopa</div>
+                    <div class="title">Broadcasting</div>
                     <div class="sub-title">Web developer</div>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi ex accusamus porro unde sit blanditiis
                         dolore ducimus deserunt incidunt sapiente.</p>
@@ -84,7 +84,7 @@
             <div class="card">
                 <div class="img"><img src="./assets/img/banner.jpg" alt=""></div>
                 <div class="content">
-                    <div class="title">Agustopa</div>
+                    <div class="title">Kahoot</div>
                     <div class="sub-title">Web developer</div>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi ex accusamus porro unde sit blanditiis
                         dolore ducimus deserunt incidunt sapiente.</p>

@@ -15,7 +15,8 @@ $hermanos = [
     'Maria Rosa Boleko', 'Rodrigo  Gómez', 'Amparo Gascón', 'José Luis Echevarria', 'Antonio Alarcón',
     'Susi Alarcon', 'Maria Rosa Juanals', 'Loli Martín', 'Olivia', 'Maria Font', 'Leandri Gaspar', 'Luisa Pendas',
     'Eusebia Rojas', 'Isa Rubio', 'Antonio Sanza', 'Herminia Mencia', 'Rosa Álamo', 'Maria Rosa Subirats',
-    'Nieves Lorente', 'Manuel Lara', 'Angeles Berlanga', 'Fátima Trigo', 'Maruja Subirats'
+    'Nieves Lorente', 'Manuel Lara', 'Angeles Berlanga', 'Fátima Trigo', 'Maruja Subirats', 'Ana Celia',
+    'Pedro Navarrete', 'Pepita Perez', 'Teresa Rosell'
 ];
 
 
