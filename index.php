@@ -19,7 +19,7 @@
                     <i class="fas fa-times"></i>
                 </div>
                 <li><a href="#">Home</a></li>
-                <li><a href="#">Domingo</a></li>
+                <li><a href="brothersisters.php">Domingo</a></li>
                 <li><a href="#">Broadcasting</a></li>
                 <li><a href="#">Kahoot</a></li>
                 <li><a href="#">About</a></li>
@@ -31,6 +31,12 @@
     </nav>
 
     <div class="banner"></div>
+    <div class="center">
+        <div class="title">Noche de adoración en Familia</div>
+        <div class="btns">
+            <button>Empezar</button>
+        </div>
+    </div>
     <div class="about">
         <div class="content">
             <div class="title">Página web oficial de la noche de adoración en Familia de las familias Agustopa Balderrama, Rubio y Boleko</div>
@@ -55,45 +61,113 @@
                 repellat hic ipsa rerum magnam temporibus, culpa veniam.</p>
         </div>
     </div>
-    
-    <div class="slider owl-carousel">
+    <div class="tarjetas">
+        <div class="wrapper">
             <div class="card">
-                <div class="img"><img src="./assets/img/banner.jpg" alt=""></div>
+                <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/06/60/de/0660deae-4ee9-192f-e7e1-9963ca9172c2/App_Icon_-_Small-marketing.lsr/1200x630bb.png" alt="">
                 <div class="content">
-                    <div class="title">Agenda Domingo</div>
-                    <div class="sub-title">Web developer</div>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi ex accusamus porro unde sit blanditiis
-                    dolore ducimus deserunt incidunt sapiente.</p>
-                    <div class="btn">
-                        <button>Read more</button>
+                    <div class="row">
+                        <div class="details">
+                            <span>JW Broadcasting</span>
+                            <p>Ya disponible Diciembre 2020</p>
+                        </div>
+                    </div>
+                    <div class="buttons">
+                        <button>Ver</button>
                     </div>
                 </div>
             </div>
             <div class="card">
-                <div class="img"><img src="./assets/img/banner.jpg" alt=""></div>
+                <img src="https://assetsnffrgf-a.akamaihd.net/assets/m/802013129/univ/art/802013129_univ_wsr_lg.jpg" alt="">
                 <div class="content">
-                    <div class="title">Broadcasting</div>
-                    <div class="sub-title">Web developer</div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi ex accusamus porro unde sit blanditiis
-                        dolore ducimus deserunt incidunt sapiente.</p>
-                    <div class="btn">
-                        <button>Read more</button>
+                    <div class="row">
+                        <div class="details">
+                            <span>Agendar NAF</span>
+                            <p>Propón qué hacer el domingo</p>
+                        </div>
+                    </div>
+                    <div class="buttons">
+                        <button>Agendar</button>
                     </div>
                 </div>
             </div>
             <div class="card">
-                <div class="img"><img src="./assets/img/banner.jpg" alt=""></div>
+                <img src="https://www.educaciontrespuntocero.com/wp-content/uploads/2017/08/kahoot-1.jpg" alt="">
                 <div class="content">
-                    <div class="title">Kahoot</div>
-                    <div class="sub-title">Web developer</div>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi ex accusamus porro unde sit blanditiis
-                        dolore ducimus deserunt incidunt sapiente.</p>
-                    <div class="btn">
-                        <button>Read more</button>
+                    <div class="row">
+                        <div class="details">
+                            <span>Kahoot</span>
+                            <p>Kahoot bíblico de Belu mensa</p>
+                        </div>
+                    </div>
+                    <div class="buttons">
+                        <button>Jugar</button>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
+    <!-- Footer -->
+    <footer>
+        <div class="main-content">
+            <div class="left box">
+                <h2>
+                    About us</h2>
+                <div class="content">
+                    <p>
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatum quisquam vitae
+                        exercitationem esse dolore reiciendis ad, animi quam voluptatibus, unde, eum accusamus! Quos
+                        maiores rerum quasi tempora voluptatem aspernatur nulla, perferendis officiis. Quam
+                        exercitationem suscipit maxime id eos quibusdam at?</p>
+                    <div class="social">
+                        <a target="_blank" href="https://www.linkedin.com/in/alejandroagustopa/"><span class="fab fa-linkedin"></span></a>
+                        <a target="_blank" href="#"><span class="fab fa-twitter"></span></a>
+                        <a target="_blank" href="https://www.instagram.com/alejandro.agustopa/"><span class="fab fa-instagram"></span></a>
+                        <p>&copy; Copyright by Agustopa</p>
+                    </div>
+                </div>
+            </div>
+            <div class="left box">
+                <h2>JW FOR U</h2>
+                <div class="content">
+                    <div class="place">
+                        <a target="_blank" href="https://wol.jw.org/es/wol/h/r4/lp-s">
+                            <span class="fas fa-map-marker-alt"></span>
+                            <span class="text">BIBLIOTECA EN LÍNEA Watchtower</span>
+                        </a>
+                    </div>
+                    <div class="phone">
+                        <a target="_blank" href="https://www.jw.org/es/biblioteca/videos/#/es/categories/VODStudio">
+                            <span class="fas fa-map-marker-alt"></span>
+                            <span class="text">JW Broadcasting</span>
+                        </a>
+                    </div>
+                    <div class="email">
+                        <a target="_blank" href="https://www.jw.org/es/ayuda-en-l%C3%ADnea/jw-language/">
+                            <span class="fas fa-map-marker-alt"></span>
+                            <span class="text">JW Language</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <!-- <div class="center box">
+                <div class="content">
+                    <div class="place">
+                        <span class="fas fa-map-marker-alt"></span>
+                        <span class="text">Lorem Ipsum</span>
+                    </div>
+                    <div class="phone">
+                        <span class="fas fa-phone-alt"></span>
+                        <span class="text">603611987</span>
+                    </div>
+                    <div class="email">
+                        <span class="fas fa-envelope"></span>
+                        <span class="text">lorem@example.com</span>
+                    </div>
+                </div>
+            </div> -->
+        </div>
+    </footer>
 </body>
 
 </html>
