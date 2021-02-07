@@ -5,8 +5,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>NAF</title>
-    <link rel="stylesheet" type="text/css" href="./assets/css/new.css?v=1.1"/>
+    <link rel="stylesheet" type="text/css" href="./assets/css/new.css"/>
+    <!-- if css is not working just add "./assets/css/new.css?v=1.1" or use ctrl + f5 -->
 </head>
+
+<!-- inspiracion? -->
+
+<!-- https://codepen.io/fidalgodev/pen/bOGaVy
+https://codepen.io/avstorm/pen/gKGbxo
+https://codepen.io/lucasyem/pen/ZEEYKdj -->
+
 
 <body>
     <?php include_once('./logic.php');

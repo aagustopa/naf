@@ -16,11 +16,11 @@ $hermanos = [
     'Maria Rosa Boleko', 'Rodrigo  Gómez', 'Amparo Gascón', 'José Luis Echevarria', 'Antonio Alarcón',
     'Susi Alarcon', 'Maria Rosa Juanals', 'Loli Martín', 'Olivia', 'Maria Font', 'Leandri Gaspar', 'Luisa Pendas',
     'Eusebia Rojas', 'Antonio Sanza', 'Herminia Mencia', 'Rosa Álamo', 'Maria Rosa Subirats',
-    'Nieves Lorente', 'Manuel Lara', 'Angeles Berlanga', 'Fátima Trigo', 'Maruja Subirats', 'Ana Celia',
+    'Nieves Lorente', 'Manuel Lara', 'Angeles Berlanga', 'Fátima Trigo', 'Ana Celia',
     'Pedro Navarrete', 'Pepita Perez', 'Teresa Rosell'
 ];
 
-// DONE (Isa Rubio)
+// DONE (Isa Rubio, Maruja Subirats)
 
 
 // foreach ($familias as $items) {
